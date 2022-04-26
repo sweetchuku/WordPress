@@ -1,0 +1,1 @@
+This is simplae math calculator developed in WprdPress one page site.
